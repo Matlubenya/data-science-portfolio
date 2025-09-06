@@ -1,1 +1,13 @@
 *.csv *.xlsx *.pdf *.log _pycache_/
+# python environment
+venv/
+
+# JuupyterbNotebook checkpoints
+.ipynb_checkpoints/
+
+# Temporary files
+*.pyc
+_pycache_/
+
+# Optional: ignore any untitled notebooks
+Untitled*.ipynb
